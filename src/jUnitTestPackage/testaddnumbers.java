@@ -11,7 +11,7 @@ public class testaddnumbers {
 		jUnitFunctions junit= new jUnitFunctions();
 		int result =junit.addnumbers(100,200);
 		assertEquals (300, result);
-	
+
 	}
 
 }
